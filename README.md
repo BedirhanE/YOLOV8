@@ -1,4 +1,4 @@
-###Multi-Camera Object Detection with YOLOv8
+Multi-Camera Object Detection with YOLOv8
 This repository contains code for performing object detection using YOLOv8 on frames captured from multiple cameras simultaneously. The code utilizes OpenCV for camera handling and visualization, as well as the Ultralytics YOLO wrapper for object detection.
 
 Features
